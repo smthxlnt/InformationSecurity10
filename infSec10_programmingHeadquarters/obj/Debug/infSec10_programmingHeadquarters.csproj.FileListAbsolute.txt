@@ -1,0 +1,10 @@
+C:\Users\Sidorova\Documents\some projects\Вездекод\infSec10_programmingHeadquarters\bin\Debug\infSec10_programmingHeadquarters.exe.config
+C:\Users\Sidorova\Documents\some projects\Вездекод\infSec10_programmingHeadquarters\bin\Debug\infSec10_programmingHeadquarters.exe
+C:\Users\Sidorova\Documents\some projects\Вездекод\infSec10_programmingHeadquarters\bin\Debug\infSec10_programmingHeadquarters.pdb
+C:\Users\Sidorova\Documents\some projects\Вездекод\infSec10_programmingHeadquarters\obj\Debug\infSec10_programmingHeadquarters.csprojAssemblyReference.cache
+C:\Users\Sidorova\Documents\some projects\Вездекод\infSec10_programmingHeadquarters\obj\Debug\infSec10_programmingHeadquarters.Form1.resources
+C:\Users\Sidorova\Documents\some projects\Вездекод\infSec10_programmingHeadquarters\obj\Debug\infSec10_programmingHeadquarters.Properties.Resources.resources
+C:\Users\Sidorova\Documents\some projects\Вездекод\infSec10_programmingHeadquarters\obj\Debug\infSec10_programmingHeadquarters.csproj.GenerateResource.cache
+C:\Users\Sidorova\Documents\some projects\Вездекод\infSec10_programmingHeadquarters\obj\Debug\infSec10_programmingHeadquarters.csproj.CoreCompileInputs.cache
+C:\Users\Sidorova\Documents\some projects\Вездекод\infSec10_programmingHeadquarters\obj\Debug\infSec10_programmingHeadquarters.exe
+C:\Users\Sidorova\Documents\some projects\Вездекод\infSec10_programmingHeadquarters\obj\Debug\infSec10_programmingHeadquarters.pdb
